@@ -1,0 +1,4 @@
+print("Vamos converter sua hor de escravidão em dinheiro?")
+horas = (int(input("Informe ao sistema as horas trabalhadas: ")))
+valor = (float (horas * 7.37))
+print(f"seu salario esse mês é: {valor} ")
